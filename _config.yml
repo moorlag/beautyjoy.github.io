@@ -21,16 +21,16 @@ description: >
 keywords: >
   AP CSP, advanced placement, computer scince principles, comp sci, snap,
   programming, computing, BJC, computer science, cs10, bjcx, bjc4nyc
-baseurl: ""
+baseurl: "http://ramonmoorlag.nl/beautyjoy.github.io/"
 # NOTE: This URL is needed for Github pages. It will get overriden
 # in the build scripts.
-url: "https://beautyjoy.github.io"
+url: "https://www.ramonmoorlag.nl/beautyjoy.github.io"
 permalink: pretty
 
 # This is used for displaying a warning on sites that aren't the
 # production site.
-production_url: https://bjc.berkeley.edu
-twitter_username:   cspbjc
+production_url: https://ramonmoorlag.nl/
+twitter_username:   ieni
 facebook_username:  cspbjc
 instagram_username: cspbjc
 flipboard_link:     https://bjc.link/computingnews

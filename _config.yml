@@ -21,7 +21,7 @@ description: >
 keywords: >
   informatica, digitale geletterdheid, computer science, Snap!, Snap,
   programming, computing, BJC, computer science, cs10, bjcx, bjc4nyc
-baseurl: ""
+baseurl: "http://ramonmoorlag.nl/beautyjoy.github.io/"
 # NOTE: This URL is needed for Github pages. It will get overriden
 # in the build scripts.
 url: "https://www.ramonmoorlag.nl/beautyjoy.github.io"
@@ -51,7 +51,7 @@ social:
         - https://twitter.com/ieni
 #        - https://www.facebook.com/cspbjc
 #        - https://github.com/beautyjoy
-#        - https://instagram.com/cspbjc
+        - https://instagram.com/cspbjc
 google_site_verification:
 
 # These are specifically whitelisted by Github

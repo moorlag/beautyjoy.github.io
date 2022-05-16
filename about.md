@@ -2,15 +2,20 @@
 layout: page
 title: About
 header_background: group1
-published: false
+published: true
 ---
 
 {% capture section_content %}
 
 ## The Beauty and Joy of Computing
 
-Computing has changed the world in profound ways. It has opened up wonderful new ways for people to connect, design, research, play, create, and express themselves. However, just using a computer is only a small part of the picture. The real transformative and empowering experience comes when one learns how to program the computer, to translate ideas into code. This course teaches students how to do exactly that, using [Snap_!_](https://snap.berkeley.edu) (based on [Scratch](https://www.scratch.mit.edu)), one of the friendliest programming languages ever invented. It's purely graphical, which means programming involves simply dragging blocks around, and building bigger blocks out of smaller blocks.
+Computers en het gebruik ervan heeft de wereld ingrijpend veranderd. Het is een   prachtige en nieuwe manier contacten te leggen, te ontwerpen, te onderzoeken, te spelen, te creëren. Het gebruik van een computer alleen is echter maar een klein deel van het plaatje. De echte transformerende en versterkende ervaring komt wanneer men leert hoe de computer te programmeren en om ideeën te vertalen in code. Deze cursus leert leerlingen hoe ze precies dat kunnen doen, met behulp van [Snap_!_](https://snap.berkeley.edu) (gebaseerd op [Scratch](https://www.scratch.mit.edu)). De taal is grafisch. Er wordt geen code geschreven maar met blokken gesleept. Deze blokken zijn de letterlijke bouwstenen van de taal.
 
-But this course is far more than just learning to program. We focus on some of the "Big Ideas" of computing, such as abstraction, design, recursion, concurrency, simulations, and the limits of computation. We show some beautiful applications of computing that have changed the world, talk about the history of computing, and where it will go in the future. Throughout the course, relevance is emphasized: relevance to the student and to society. As an example, the final project is completely of the students' choosing, on a topic most interesting to them. The overarching theme is to expose students to the beauty and joy of computing. We are especially excited about bringing computing (through this course) to traditionally under-represented groups in computing, i.e., women and ethnic minorities.
+ Deze cursus is veel meer dan alleen maar leren programmeren. We richten ons op enkele van de "Grote Ideeën" van de informatica, zoals abstractie, ontwerp, recursie, simulaties en de grenzen van de informatica. We tonen enkele prachtige toepassingen van informatica die de wereld hebben veranderd en praten over de geschiedenis van  informatica. Ook wordt er in de cursus expliciet stilgestaan bij de toekomst. In de hele cursus wordt de nadruk gelegd op relevantie: relevantie voor de leerling en voor de maatschappij. Zo is het eindproject volledig door de studenten zelf te kiezen, over een onderwerp dat hen het meest interesseert. Het overkoepelende thema is om studenten kennis te laten maken met de schoonheid en het plezier van informatica. We zijn vooral enthousiast over het feit dat we informatica (via deze cursus) naar traditioneel ondervertegenwoordigde groepen in de informatica kunnen brengen, d.w.z. vrouwen en etnische minderheden.
+
+
+
+
+
 
 {% endcapture %} {% include section.html %}

@@ -13,13 +13,13 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: BJC
-author: UC Berkeley, Dan Garcia, Brian Harvey, Tiffany Barnes, Michael Ball, Lauren Mock
-email: contact@bjc.berkeley.edu
+title: BJOC-nl
+author: Dutch version vakvereniging i&i, Felienne Hermans, Alexander Serebrenik,  Wendy d’Hollosy, Renske Weeda, Ramon Moorlag. English version UC Berkeley, Dan Garcia, Brian Harvey, Tiffany Barnes, Michael Ball, Lauren Mock
+email: bestuur@ieni.org
 description: >
-  The Beauty and Joy of Computing is an endorsed AP Computer Science Principles course that is a rigorous introduction to programming and that the ways we interact with and are affected by technology every day.
+  Beauty and Joy of Computing (BJOC-NL) is een lesmethode ontwikkeld door Berkeley om middelbare scholieren op een creatieve manier kennis te laten maken met programmeren en informatica in brede zin. In de VS zijn er grote successen mee geboekt, bijv. in het aantrekken van meer vrouwelijke studenten op Berkeley.
 keywords: >
-  AP CSP, advanced placement, computer scince principles, comp sci, snap,
+  informatica, digitale geletterdheid, computer science, Snap!, Snap,
   programming, computing, BJC, computer science, cs10, bjcx, bjc4nyc
 baseurl: "http://ramonmoorlag.nl/beautyjoy.github.io/"
 # NOTE: This URL is needed for Github pages. It will get overriden
@@ -46,13 +46,13 @@ twitter:
 logo: /assets/img/bjc.png
 lang: en_US
 social:
-    name: The Beauty and Joy of Computing
+    name: BJOC-NL
     links:
-        - https://twitter.com/cspbjc
+        - https://twitter.com/ieni
         - https://www.facebook.com/cspbjc
         - https://github.com/beautyjoy
         - https://instagram.com/cspbjc
-google_site_verification: KuWL2ZXn4a2LNuAH4B-ghSObfCQ3tI6yXiSIRo6f05k"
+google_site_verification:
 
 # These are specifically whitelisted by Github
 plugins:

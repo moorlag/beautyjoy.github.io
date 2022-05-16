@@ -3,7 +3,7 @@ var ses = new AWS.SES();
 
 // This must be verified to work.
 // var DESTINATION = 'cycomachead@gmail.com'; // testing...
-var DESTINATION = 'contact@bjc.berkeley.edu';
+var DESTINATION = 'info@bjoc.nl';
 
 exports.handler = function(event, context) {
   console.log('Received event:', event)

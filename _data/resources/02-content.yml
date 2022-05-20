@@ -1,5 +1,9 @@
 subheading: Content Resources
 resources:
+  - name: i&i Forum
+    description: het Forum van i&i
+    link: forum.ieni.org
+
   - name: Blown to Bits
     description: |
       [Chapter by Chapter](https://www.bitsbook.com/excerpts/)
@@ -15,7 +19,7 @@ resources:
   - name: BJC Labs - Teacher Guide
     link: https://bjc.edc.org/bjc-r/teacher
     description: This guide is designed to support high school CSP teachers with timing and activities for the BJC student materials to teach important ideas of programming and the social implications of computing and to prepare students for the AP CSP Exam.
-  
+
   - name: BJC Curriculum Resources
     link: https://bjc.edc.org/bjc-r/cur/teaching-guide/resources/tg-resources.html?course=bjc4nyc_teacher.html&novideo&noassignment
     description: Compiled list of BJC resources to accompany lab material.
@@ -23,6 +27,3 @@ resources:
   - name: Teaching Global Impact
     link: https://teachglobalimpact.org/
     description: Creative teaching resources, lesson plans, and practical strategies. Helping CSP teachers plan lessons on the global impact of computing.
-
-
-

@@ -1,4 +1,10 @@
 ---
+- name: Felienne Hermans
+  teams:
+    - NL-Delegation
+  image: placeholder.jpeg
+  description: >
+    prof. 
 - name: Dan Garcia
   teams:
     - leadership
@@ -54,7 +60,7 @@
     - leadership
   image: marnie-hill.jpeg
   location: NCSU
-  description: BJC Project Manager, PD Workshops  
+  description: BJC Project Manager, PD Workshops
 - name: Paul Goldenberg
   teams:
     - leadership
@@ -336,7 +342,7 @@
   image: priyans.jpg
   description: >
    He is a rising Computer Science sophomore at UC Berkeley. He is passionate about the intersection of CS and Education. He is also a research assistant under Professor Garcia, working on the Auto Quiz project.
-   He is responsible for web development and communications for BJC India. 
+   He is responsible for web development and communications for BJC India.
 ################################################
 # PLEZMO TEAM
 ################################################
@@ -345,18 +351,18 @@
     - india-plez-pathshala
   image: amol.jpg
   description: >
-    Amol Palshikar is the co-founder and CEO of Plezmo. He is leading the effort to integrate Plezmo's hardware with Snap! to provide students a better learning experience. 
+    Amol Palshikar is the co-founder and CEO of Plezmo. He is leading the effort to integrate Plezmo's hardware with Snap! to provide students a better learning experience.
 - name: Girish Mujumdar
   teams:
     - india-plez-pathshala
   image: girish.jpg
   description: >
-    Girish Mujumdar is the co-founder of Plezmo and serves as the COO. He is working to integrate Plezmo's hardware with Snap!. 
+    Girish Mujumdar is the co-founder of Plezmo and serves as the COO. He is working to integrate Plezmo's hardware with Snap!.
 - name: Amruta Zende
   teams:
       - india-plez-pathshala
   image: amruta.jpg
-  description: Amruta Zende is the co-founder and the head of Engineering of Plezmo. She was directly involved with integrating Plezmo's hardware with Snap!. 
+  description: Amruta Zende is the co-founder and the head of Engineering of Plezmo. She was directly involved with integrating Plezmo's hardware with Snap!.
 - name: Vipul Shah
   teams:
     - india-plez-pathshala
@@ -372,9 +378,9 @@
   teams:
     - india-plez-pathshala
   image: shekhar.jpg
-  description: Shekhar Shasrabudhe is the COO of ACM India. He has worked with CSPathshala to help us organize the event. 
+  description: Shekhar Shasrabudhe is the COO of ACM India. He has worked with CSPathshala to help us organize the event.
 - name: Sonia Garcha
-  teams: 
+  teams:
     - india-plez-pathshala
   image: sonia.jpg
-  description: Sonia Garcha is the program associate - CSR at CSPathshala's Development Support Team. She will be conducting computational thinking activities in PD 2019. 
+  description: Sonia Garcha is the program associate - CSR at CSPathshala's Development Support Team. She will be conducting computational thinking activities in PD 2019.
